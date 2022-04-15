@@ -1,0 +1,143 @@
+*{
+
+margin: 0px ;
+padding: 0px ;
+}
+
+
+#arshiaa{
+    border:1px solid rgb(68, 68, 211) ;
+    height: 60px;
+background-color: rgb(60, 60, 197);
+
+}
+
+#art{
+    border: 1px solid black;
+    height: 50px;
+    background-color: rgb(73, 65, 65);
+}
+
+
+
+ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 0px 32px;
+float: right;
+
+padding: 5px ;
+border-radius: 15px;
+background-color: antiquewhite;
+}
+ul li a{
+    text-decoration: none;
+}
+ul li:hover{
+background-color: cornflowerblue;
+    cursor:pointer;
+}
+ul li a{
+    color: rgb(19, 65, 65);
+}
+#ghafa{
+    color: antiquewhite;
+}
+.header{
+border: 1px solid black ;
+height: 400px ;
+background-image: url(../img/image_014.jpg);
+background-size: cover;
+background-attachment: fixed;
+}
+h2{
+color: rgb(179, 169, 157);
+text-align: center;
+margin: 100px;
+
+}
+.shim{
+display: inline-block;
+background-attachment: fixed;
+
+}
+aside{
+    border: 1px solid black;
+height: 800px ;
+width: 200px;
+float: left;
+    display: inline-block;
+  background-color:rgb(68, 68, 211);
+ 
+}
+.right{
+    border: 1px solid black;
+    height: 800px ;
+    width: 200px;
+    float:   right;
+        display: inline-block;
+     background-color:rgb(68, 68, 211) ;
+}
+.hidenn{
+    color: rgb(209, 198, 183);
+    padding: 20px;
+}
+strong{
+    float: right;
+    padding: 5px;
+}
+#sol{
+    border: 1px solid black;
+    height: 110px;
+}
+
+.jkds{
+padding: 5px;
+display: inline-block;
+margin: 0px 62px;
+float: center;
+}
+#titan{
+    color: rgb(20, 20, 156);
+}
+table{
+    border: 2px solid rgb(32, 32, 99);
+    float: center;
+    display: inline-block;
+    margin: 0px 525px;
+    padding: 5px;
+}
+th{
+    border: 2px solid rgb(32, 32, 99);
+
+}
+tr{
+    border: 2px solid rgb(32, 32, 99);
+
+}
+#rezaee{
+border: 2px solid black;
+height: 400px ;
+width: 700px;
+float: center;
+margin: 0px 360px;
+}
+#zaar{
+    background-image: cover;
+    margin: 0px 48px;
+}
+#hjan{
+
+float: right;
+margin: 10px 460px;
+
+}
+button{
+    padding: 12px;
+    border-radius: 15px ;
+    background-color: rgb(182, 148, 137);
+}
+button:hover{
+    background-color: rgb(55, 55, 190);
+    cursor: pointer;
+}
